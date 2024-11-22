@@ -1,6 +1,7 @@
 ## Hola a todos 👋
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JTomas88)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JTomas88&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
 
 Este apartado está en construcción... :construction: 
 
