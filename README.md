@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary>📂 Carefy</summary>
+  <summary>📂 Carefy :older_man:</summary>
   
   **Descripción:**  
   Se presentó como proyecto final del Bootcamp impartido por 4Geeks Academy. La plataforma creada pretende vincular a cuidadores de personas mayores con familiares que tienen alguna necesidad de acompañamiento en este ámbito. Ofrece algunas secciones públicas como la propia descripción de la plataforma o un apartado de FAQs. Para poder hacer uso como tal de la plataforma es neceario estar registrado, bien como familiar o bien como cuidador. Los familiares publican anuncios cuando necesitan a un cuidador y estos se pueden postular a este anuncio, siendo el familiar quien escoge al cuidador entre todas las postulaciones. UNa vez contratado, el familiar puede dejar una reseña fiable sobre el servicio que ha recibido. 
