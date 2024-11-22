@@ -6,4 +6,5 @@
 
 ## Conéctate conmigo 💬
 - [LinkedIn](https://www.linkedin.com/in/jtomas88/)
+- 📧 Email: juan.tomas88@hotmail.com
 
