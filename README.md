@@ -1,6 +1,8 @@
 ## Hola a todos 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JTomas88&show_icons=true&count_private=true&hide_title=true&theme=radical)
+## Mis habilidades:
+- 💻 Programación: Python, JavaScript, Ruby, C++
+- 🌐 Desarrollo web: HTML, CSS, React, Node.js
 
 
 Este apartado está en construcción... :construction: 
