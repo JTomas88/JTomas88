@@ -10,9 +10,9 @@
 
 
 ## Proyectos destacados
-
+<details>
   - <summary>📂 Fans Club Music</summary>
   - <summary>📂 Carefy c</summary>
-
+<details/>
 
 
