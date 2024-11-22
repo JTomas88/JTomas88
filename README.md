@@ -9,8 +9,7 @@
 - 📧 Email: juan.tomas88@hotmail.com
 
 
-<details>
-  <summary>📂 Proyectos destacados</summary>
+## Proyectos destacados
 
   - [Proyecto 1](https://github.com/JTomas88/proyecto1)
   - [Proyecto 2](https://github.com/JTomas88/proyecto2)
