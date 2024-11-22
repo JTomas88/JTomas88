@@ -11,8 +11,8 @@
 
 ## Proyectos destacados
 
-  - [Proyecto 1](https://github.com/JTomas88/proyecto1)
-  - [Proyecto 2](https://github.com/JTomas88/proyecto2)
+  - <summary>📂 Fans Club Music</summary>
+  - <summary>📂 Carefy c</summary>
 
-</details>
+
 
