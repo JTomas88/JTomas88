@@ -67,7 +67,7 @@
   **Enlace al repositorio:**  
   [Portfolio](https://github.com/JTomas88/Portfolio)
 
-  **Aquí puedes ver el resultado final:**
+  **Aquí puedes ver el resultado final:**<br>
   [Portfolio](https://jtomas88.github.io/Portfolio/)
 
 </details>
