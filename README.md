@@ -50,4 +50,27 @@
 
 </details>
 
+## Otros proyectos
+<details>
+  <summary>📂 Portfolio 💼 </summary>
+  
+  **Descripción:**  
+  Quise crear un curriculum interactivo donde aparezcan los aspectos más destacados. Aquí puedes ver mi experiencia laboral, proyectos que voy creando, cual ha sido mi formación y qué tecnologías manejo. 
+  
+  **Tecnologías utilizadas:**  
+  - React
+  - CSS
+  - Bootstrap
+  
+    
+  
+  **Enlace al repositorio:**  
+  [Portfolio](https://github.com/JTomas88/Portfolio)
+
+  **Aquí puedes ver el resultado final:**
+  [Portfolio](https://jtomas88.github.io/Portfolio/)
+
+</details>
+
+
 
