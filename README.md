@@ -73,4 +73,27 @@
 </details>
 
 
+<details>
+  <summary>📂 Generador QR 💼 </summary>
+  
+  **Descripción:**  
+  Es un proyecto sencillo, pero muy útil si queremos generar un codigo QR personalizado. Basta con introducir nuestra dirección o web o la página a la que queremos que nos lleve, clickar en un botón y...¡voilá!
+Ya tendríamos generado nuestro propio QR. 
+  
+  **Tecnologías utilizadas:**  
+  - Javascript (librería QR Code)
+  - CSS
+  - HTML
+  
+    
+  
+  **Enlace al repositorio:**  
+  [Generador QR](https://github.com/JTomas88/generador_QR)
+
+  **Aquí puedes ver el resultado final:**<br>
+  [Portfolio](https://jtomas88.github.io/Portfolio/)
+
+</details>
+
+
 
