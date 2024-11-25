@@ -90,8 +90,8 @@ Ya tendríamos generado nuestro propio QR.
   **Enlace al repositorio:**  
   [Generador QR](https://github.com/JTomas88/generador_QR)
 
-  **Aquí puedes ver el resultado final:**<br>
-  [Portfolio](https://jtomas88.github.io/Portfolio/)
+  **Prueba a escanearla :) **<br>
+  ![Imagen](QRLinkTree.jpg)
 
 </details>
 
