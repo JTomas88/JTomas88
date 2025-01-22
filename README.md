@@ -11,7 +11,7 @@
 
 ## Proyectos destacados
 <details>
-  <summary>📂 Fans Club Music (actuamente) :microphone:</summary>
+  <summary>📂 Fans Club Music :microphone:</summary>
   
   **Descripción:**  
   Esta página pretende crear un punto de unión para todos los seguidores de un concierto. Algunos apartados como los objetivos del club o la descripción o el artista son públicos. Otros, como las galerías de fotos o la participación en sorteos, requieren de un registro. La página hace uso de carrousel de foto, iframe de Youtube o React Chrono para la creación de un pequeño timeline.
