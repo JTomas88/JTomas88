@@ -30,7 +30,7 @@
   [Fans Club Music](https://github.com/JTomas88/FansClub_v.2)
 
   **Enlace al repositorio:**  
-  ![Demo del Proyecto](Demo.mp4)
+  [![Ver Demo](https://img.icons8.com/ios/50/000000/play-button-circled.png)](Demo.mp4)
 </details>
 
 <details>
