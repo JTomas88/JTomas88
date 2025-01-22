@@ -30,7 +30,7 @@
   [Fans Club Music](https://github.com/JTomas88/FansClub_v.2)
 
   **Enlace al repositorio:**  
- ![Demo del Proyecto](Demo.mp4)
+![Demo del Proyecto](https://github.com/JTomas88/FansClub/blob/master/Demo.mp4)
  
 </details>
 
