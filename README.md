@@ -32,7 +32,9 @@
   **Demo:**  
 **Demo:**
 
-[[Mira el video en YouTube](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <img src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" alt="Mira el video en YouTube">
+</a>
 
 
  
