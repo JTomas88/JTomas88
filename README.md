@@ -32,7 +32,7 @@
   **Demo:**  
 **Demo:**
 
-[![Mira el video en YouTube](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[[Mira el video en YouTube](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
  
@@ -55,8 +55,6 @@
   **Enlace al repositorio:**  
   [Carefy](https://github.com/JTomas88/Carefy-ProyectoFinal-)
 
-  **Demo del proyecto**  
-  ![Demo del proyecto](./Demo.mp4)
 
 </details>
 
