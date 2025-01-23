@@ -29,12 +29,10 @@
   **Enlace al repositorio:**  
   [Fans Club Music](https://github.com/JTomas88/FansClub_v.2)
 
-  **Demo:**  
-**Demo:**
+  **Demo:** 
+  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
-<a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
-  <img src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" alt="Mira el video en YouTube">
-</a>
+
 
 
  
