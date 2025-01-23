@@ -30,7 +30,11 @@
   [Fans Club Music](https://github.com/JTomas88/FansClub_v.2)
 
   **Demo:** 
-  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+  
+
+https://github.com/user-attachments/assets/7d65c193-3066-4547-b4dc-f089c789ede1
+
+
 
 
 
