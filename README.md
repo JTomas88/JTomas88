@@ -30,9 +30,10 @@
   [Fans Club Music](https://github.com/JTomas88/FansClub_v.2)
 
   **Demo:**  
-<video src="https://github.com/JTomas88/FansClub/raw/refs/heads/master/Demo.mp4" controls="controls" style="max-width: 100%; height: auto;">
-  Tu navegador no soporta la reproducción de videos.
-</video>
+**Demo:**
+
+[![Mira el video en YouTube](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 
  
 </details>
