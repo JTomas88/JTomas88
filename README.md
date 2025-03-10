@@ -8,6 +8,8 @@
 - [LinkedIn](https://www.linkedin.com/in/jtomas88/)
 - 📧 Email: juan.tomas88@hotmail.com
 
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTomas88&layout=compact)
+
 
 ## Proyectos destacados
 <details>
