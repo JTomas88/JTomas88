@@ -5,7 +5,8 @@
 - 🌐 Desarrollo web: HTML, CSS, React, Node.js
 
 ## Conecta conmigo 💬
-- [LinkedIn](https://www.linkedin.com/in/jtomas88/)
+- &nbsp; <a href="https://www.linkedin.com/in/jtomas88/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+
 - 📧 Email: juan.tomas88@hotmail.com
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTomas88&layout=compact)
