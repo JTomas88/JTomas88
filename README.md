@@ -9,9 +9,6 @@
 &nbsp; <a href="mailto:juan.tomas88@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 
-- 📧 Email: juan.tomas88@hotmail.com
-
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTomas88&layout=compact)
 
 
 ## Proyectos destacados
