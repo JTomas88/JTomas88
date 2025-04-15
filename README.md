@@ -39,7 +39,7 @@ responsable
         <sub>JWT Auth</sub>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/664/664468.png" width="40" alt="API"/><br/>
+        <img src="https://github.com/user-attachments/assets/11d27258-9ecf-4f22-9621-31cf11e10b35" width="40" alt="API"/><br/>
         <sub>APIs</sub>
       </td>
       <td align="center">
