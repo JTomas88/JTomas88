@@ -1,5 +1,5 @@
 ### Hola 👋, soy Juan Tomás
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://www.canva.com/design/DAGkvMZ5dZs/YeMkp5QXx9pC4iORk1WwCQ/edit?utm_content=DAGkvMZ5dZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 Desarrollador full stack con experiencia en React, Python y SQL.
 Habilidades de comunicación, resolución de problemas, trabajo
