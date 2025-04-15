@@ -1,3 +1,20 @@
+### Hola 👋, soy Juan Tomás
+![](![header](https://www.canva.com/design/DAGkvMZ5dZs/YeMkp5QXx9pC4iORk1WwCQ/edit?utm_content=DAGkvMZ5dZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+
+Desarrollador full stack con experiencia en React, Python y SQL.
+Habilidades de comunicación, resolución de problemas, trabajo
+por objetivos y gestión de equipos. Autodidacta, minucioso y
+responsable
+
+Habilidades: JAVASCRIPT / REACT / JS / HTML / CSS / ANGULAR / PYTHON
+
+- 🔭 Estoy trabajando en PrideRide  
+- 🌱 Estoy aprendiendo Angular 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JTomas88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jtomas88/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jtomas88)  
+
+
 ## Hola a todos 👋
 
 ## Mis habilidades:
