@@ -1,5 +1,5 @@
 ### Hola 👋, soy Juan Tomás
-<img src="[https://www.canva.com/design/DAGkvMZ5dZs/7Ev3Zo__Lu__YtiHPZFKFw/view?utm_content=DAGkvMZ5dZs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b534d9493](https://github.com/JTomas88/JTomas88/blob/main/Technology%20Class%20Google%20Classroom%20Header%20in%20Blue%20Minimalist%20Style.png?raw=true)" alt="header Juan Tomas, fullstack developer">
+![header Juan Tomas, full stack developer] (/header)
 
 Desarrollador full stack con experiencia en React, Python y SQL.
 Habilidades de comunicación, resolución de problemas, trabajo
