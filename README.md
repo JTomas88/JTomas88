@@ -8,7 +8,7 @@ responsable
 
 ## Mis habilidades: 
 <p align="center">
-  <table>
+  <table style="border-collapse: collapse;">
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br/>
