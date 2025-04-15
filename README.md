@@ -35,8 +35,12 @@ responsable
         <sub>Angular</sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/master/images/jwt-logo.png" width="40" alt="JWT"/><br/>
+        <img src="https://jwt.io/img/pic_logo.svg" width="40" alt="JWT"/><br/>
         <sub>JWT Auth</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/664/664468.png" width="40" alt="API"/><br/>
+        <sub>APIs</sub>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br/>
@@ -45,6 +49,7 @@ responsable
     </tr>
   </table>
 </p>
+
 
 
 
