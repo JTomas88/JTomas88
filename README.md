@@ -9,7 +9,7 @@ responsable
 Habilidades: JAVASCRIPT / REACT / JS / HTML / CSS / ANGULAR / PYTHON
 
 - 🔭 Estoy trabajando en PrideRide :car:
-- 🌱 Estoy aprendiendo Angular ![image](https://github.com/user-attachments/assets/f3cd6544-9e10-4d78-bde5-4ada400f26ae)
+- 🌱 Estoy aprendiendo Angular <img src="https://github.com/user-attachments/assets/f3cd6544-9e10-4d78-bde5-4ada400f26ae" width="100" alt="Angular logo">
 
 
 
