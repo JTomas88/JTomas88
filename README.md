@@ -1,5 +1,5 @@
 ### Hola 👋, soy Juan Tomás
-![header Juan Tomas, full stack developer] (/header.png)
+![header Juan Tomas, full stack developer] (header.png)
 
 Desarrollador full stack con experiencia en React, Python y SQL.
 Habilidades de comunicación, resolución de problemas, trabajo
