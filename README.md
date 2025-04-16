@@ -67,7 +67,58 @@ responsable
 
 ## Proyectos destacados
 <details>
-  <summary>📂 Fans Club Music :microphone:</summary>
+  <summary>📂 PrideRide ![image](https://github.com/user-attachments/assets/dabfaafd-6abf-4bd7-ae23-c71693f1f5ff)
+ 01/202 - actualmente</summary>
+  
+  **Descripción:**  
+La plataforma PrideRide está pensada para compartir vehículos en viajes. El público objetivo es el colectivo LGTBI, por lo que se pretende que lo viajes sean en un entorno seguro y libre de agresiones. 
+  
+  **Tecnologías utilizadas:**  
+  - Python
+  - Flask
+  - SQLAlchemy
+  - Angular
+  - JWT Authenticator
+  - API Google Maps
+  - API Cloudinary
+  - API Paypal
+    
+  
+  **Enlace al repositorio:**  
+  [PrideRide](https://github.com/JTomas88/PrideRide)
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>📂 Fans Club Music :microphone: 09/2024 - 12/2024</summary>
   
   **Descripción:**  
   Esta página pretende crear un punto de unión para todos los seguidores de un concierto. Algunos apartados como los objetivos del club o la descripción o el artista son públicos. Otros, como las galerías de fotos o la participación en sorteos, requieren de un registro. La página hace uso de carrousel de foto, iframe de Youtube o React Chrono para la creación de un pequeño timeline.
