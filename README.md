@@ -56,10 +56,6 @@ responsable
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JTomas88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jtomas88/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jtomas88)  [<image src='https://github.com/user-attachments/assets/28e3e094-bcde-4ff5-9592-595786b93fd0' height='40'>]
-
-
-
 
 
 ## Conecta conmigo 💬
