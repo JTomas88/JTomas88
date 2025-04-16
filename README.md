@@ -59,11 +59,7 @@ responsable
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JTomas88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jtomas88/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jtomas88)  
 
 
-## Hola a todos 👋
 
-## Mis habilidades:
-- 💻 Programación: Python, JavaScript, TypeScript
-- 🌐 Desarrollo web: HTML, CSS, React, Node.js
 
 ## Conecta conmigo 💬
 &nbsp; <a href="https://www.linkedin.com/in/jtomas88/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
