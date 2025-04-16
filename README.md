@@ -68,8 +68,7 @@ responsable
 ## Proyectos destacados
 <details>
 <summary>
-  📂 PrideRide 
-  <img src="https://github.com/user-attachments/assets/dabfaafd-6abf-4bd7-ae23-c71693f1f5ff" width="20" style="vertical-align: middle;" /> 
+  📂 PrideRide :car:
   01/2025 - actualmente
 </summary>
   
