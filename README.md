@@ -67,8 +67,11 @@ responsable
 
 ## Proyectos destacados
 <details>
-  <summary>📂 PrideRide <img src="https://github.com/user-attachments/assets/dabfaafd-6abf-4bd7-ae23-c71693f1f5ff" style="vertical-align: middle;" width="20"
- 01/202 - actualmente</summary>
+<summary>
+  📂 PrideRide 
+  <img src="https://github.com/user-attachments/assets/dabfaafd-6abf-4bd7-ae23-c71693f1f5ff" width="20" style="vertical-align: middle;" /> 
+  01/2025 - actualmente
+</summary>
   
   **Descripción:**  
 La plataforma PrideRide está pensada para compartir vehículos en viajes. El público objetivo es el colectivo LGTBI, por lo que se pretende que lo viajes sean en un entorno seguro y libre de agresiones. 
