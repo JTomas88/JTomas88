@@ -67,7 +67,7 @@ responsable
 
 ## Proyectos destacados
 <details>
-  <summary>📂 PrideRide ![image](https://github.com/user-attachments/assets/dabfaafd-6abf-4bd7-ae23-c71693f1f5ff)
+  <summary>📂 PrideRide <img src="https://github.com/user-attachments/assets/dabfaafd-6abf-4bd7-ae23-c71693f1f5ff" width="40"
  01/202 - actualmente</summary>
   
   **Descripción:**  
