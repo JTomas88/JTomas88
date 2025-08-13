@@ -1,5 +1,4 @@
 ### Hola 👋, soy Juan Tomás
-![header Juan Tomas, full stack developer](header.png)
 
 Desarrollador full stack con experiencia en React, Python y SQL.
 Habilidades de comunicación, resolución de problemas, trabajo
@@ -61,6 +60,8 @@ responsable
 ## Conecta conmigo 💬
 &nbsp; <a href="https://www.linkedin.com/in/jtomas88/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:juan.tomas88@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="jtomas.info" target="_blank" rel="noopener noreferrer"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/26f7e587-a561-489d-a50b-5d3492ab44a3" />
+
 
 
 
